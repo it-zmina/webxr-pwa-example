@@ -2,6 +2,8 @@
 
 [//]: # (https://github.com/it-zmina/webxr-pwa-example.wiki.git)
 
+https://raw.githubusercontent.com/it-zmina/webxr-pwa-example/dist/dist
+
 ## Resources
 
 
